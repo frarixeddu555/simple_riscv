@@ -11,7 +11,7 @@ RV32I implemented instructions:
 * S-type: SW
 * J-type: JAL
 
-5-stages pipeline:  
+5-stages pipeline with:  
 * Data forwarding  
 * Branch handling  
 * Pipeline stall  
